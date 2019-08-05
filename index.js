@@ -1,4 +1,4 @@
-/*const musicians = ["John", "Paul", "George", "Ringo"];
+const musicians = ["John", "Paul", "George", "Ringo"];
 
 const instruments = ["guitar", "guitar", "bass", "drums"];
 
@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 theBeatlesPlay(musicians, instruments);
 
-/*const facts = [
+const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
